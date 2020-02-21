@@ -1,0 +1,14 @@
+{
+  "name": "kurs",
+  "version": "1.0.0",
+  "description": "Oto moj projekt",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync --config browsersync.config.js"
+  },
+  "author": "moniczka",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
